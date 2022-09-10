@@ -1,0 +1,35 @@
+Assignment 3 - Work Breakdown Agreements (WBA)
+
+
+For this assignment, every member will works on the code improvement for Assignment 2, the implementation of the extended edition for Design O' Souls (Coding part), updating the UML diagram and rationale.
+
+Our group has chosen Structured Mode for Flexible Requirements.
+
+As mentioned above, we divided the coding tasks by assigning each member to do different requirements given in the Assignment 3 specifications:
+Priasha Barua - Requirements 1, 2 (Fixed Requirements)
+Chang Horng Lee - Requirements 3  (Fixed Requirements)
+Sean Michael - Requirements 4, 5  (Flexible Requirements - Structured Mode)
+
+For the updating of the UML diagram and rationale, we will be discussing and working together to produce an updated version.
+
+Every member will be responsible for testing and reviewing their own assigned requirements as well as other members' parts to ensure the entire assignment is on the right track.
+
+Dates:
+- Code improvement for Assignment 2:
+	Start	  --> 09 October 2021
+	Completed --> 11 October 2021
+- Coding for Assignment 3:
+	Start	  --> 11 October 2021
+	Completed --> 14 October 2021
+- Javadoc:
+	Start	  --> 14 October 2021
+	Completed --> 15 October 2021
+- Updating of UML diagram and rationale:
+	Start	  --> 15 October 2021
+	Completed --> 17 October 2021
+- Final Submission:
+	--> 17 October 2021
+
+I accept this WBA - Sean Michael
+I accept this WBA - Chang Horng Lee
+I accept this WBA - Priasha Barua

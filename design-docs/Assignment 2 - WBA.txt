@@ -1,0 +1,30 @@
+Assignment 2 - Work Breakdown Agreements (WBA)
+
+
+For this assignment, every member will works on the implementation of Design O' Souls (Coding part), updating the UML diagram and rationale.
+
+As mentioned above, we divided the coding tasks by assigning each member to do different requirements given in the Assignment 1 specifications:
+Priasha Barua - Requirements 1, 2, 3
+Chang Horng Lee - Requirements 4, 5
+Sean Michael - Requirements 6, 7, 8
+
+For the updating of the UML diagram and rationale, we will be discussing and working together to produce an updated version.
+
+Every member will be responsible for testing and reviewing their own assigned requirements as well as other member's parts to ensure the entire assignment is on the right track.
+
+Dates:
+- Coding:
+	Start	  --> 13 September 2021
+	Completed --> 23 September 2021
+- Javadoc:
+	Start	  --> 23 September 2021
+	Completed --> 24 September 2021
+- Updating of UML diagram and rationale:
+	Start	  --> 24 September 2021
+	Completed --> 25 September 2021
+- Final Submission:
+	--> 26 September 2021
+
+I accept this WBA - Sean
+I accept this WBA - Chang Horng Lee
+I accept this WBA - Priasha
